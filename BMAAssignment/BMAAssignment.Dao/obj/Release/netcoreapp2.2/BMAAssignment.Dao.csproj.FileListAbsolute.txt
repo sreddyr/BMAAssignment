@@ -1,0 +1,16 @@
+D:\Sri\Office\Others\BMA\BMAAssignment\BMAAssignment.Dao\bin\Release\netcoreapp2.2\BMAAssignment.Dao.deps.json
+D:\Sri\Office\Others\BMA\BMAAssignment\BMAAssignment.Dao\bin\Release\netcoreapp2.2\BMAAssignment.Dao.dll
+D:\Sri\Office\Others\BMA\BMAAssignment\BMAAssignment.Dao\bin\Release\netcoreapp2.2\BMAAssignment.Dao.pdb
+D:\Sri\Office\Others\BMA\BMAAssignment\BMAAssignment.Dao\bin\Release\netcoreapp2.2\BMAAssignment.DB.dll
+D:\Sri\Office\Others\BMA\BMAAssignment\BMAAssignment.Dao\bin\Release\netcoreapp2.2\BMAAssignment.Interfaces.dll
+D:\Sri\Office\Others\BMA\BMAAssignment\BMAAssignment.Dao\bin\Release\netcoreapp2.2\BMAAssignment.Model.dll
+D:\Sri\Office\Others\BMA\BMAAssignment\BMAAssignment.Dao\bin\Release\netcoreapp2.2\BMAAssignment.DB.pdb
+D:\Sri\Office\Others\BMA\BMAAssignment\BMAAssignment.Dao\bin\Release\netcoreapp2.2\BMAAssignment.Interfaces.pdb
+D:\Sri\Office\Others\BMA\BMAAssignment\BMAAssignment.Dao\bin\Release\netcoreapp2.2\BMAAssignment.Model.pdb
+D:\Sri\Office\Others\BMA\BMAAssignment\BMAAssignment.Dao\obj\Release\netcoreapp2.2\BMAAssignment.Dao.csprojAssemblyReference.cache
+D:\Sri\Office\Others\BMA\BMAAssignment\BMAAssignment.Dao\obj\Release\netcoreapp2.2\BMAAssignment.Dao.csproj.CoreCompileInputs.cache
+D:\Sri\Office\Others\BMA\BMAAssignment\BMAAssignment.Dao\obj\Release\netcoreapp2.2\BMAAssignment.Dao.AssemblyInfoInputs.cache
+D:\Sri\Office\Others\BMA\BMAAssignment\BMAAssignment.Dao\obj\Release\netcoreapp2.2\BMAAssignment.Dao.AssemblyInfo.cs
+D:\Sri\Office\Others\BMA\BMAAssignment\BMAAssignment.Dao\obj\Release\netcoreapp2.2\BMAAssignment.Dao.csproj.CopyComplete
+D:\Sri\Office\Others\BMA\BMAAssignment\BMAAssignment.Dao\obj\Release\netcoreapp2.2\BMAAssignment.Dao.dll
+D:\Sri\Office\Others\BMA\BMAAssignment\BMAAssignment.Dao\obj\Release\netcoreapp2.2\BMAAssignment.Dao.pdb

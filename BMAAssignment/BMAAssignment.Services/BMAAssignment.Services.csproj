@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\BMAAssignment.Dao\BMAAssignment.Dao.csproj" />
+    <ProjectReference Include="..\BMAAssignment.Interfaces\BMAAssignment.Interfaces.csproj" />
+    <ProjectReference Include="..\BMAAssignment.Model\BMAAssignment.Model.csproj" />
+  </ItemGroup>
+
+</Project>

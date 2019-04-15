@@ -1,0 +1,9 @@
+D:\Sri\Office\Others\BMA\BMAAssignment\BMAAssignment.Model\bin\Release\netcoreapp2.2\BMAAssignment.Model.deps.json
+D:\Sri\Office\Others\BMA\BMAAssignment\BMAAssignment.Model\bin\Release\netcoreapp2.2\BMAAssignment.Model.dll
+D:\Sri\Office\Others\BMA\BMAAssignment\BMAAssignment.Model\bin\Release\netcoreapp2.2\BMAAssignment.Model.pdb
+D:\Sri\Office\Others\BMA\BMAAssignment\BMAAssignment.Model\obj\Release\netcoreapp2.2\BMAAssignment.Model.csprojAssemblyReference.cache
+D:\Sri\Office\Others\BMA\BMAAssignment\BMAAssignment.Model\obj\Release\netcoreapp2.2\BMAAssignment.Model.csproj.CoreCompileInputs.cache
+D:\Sri\Office\Others\BMA\BMAAssignment\BMAAssignment.Model\obj\Release\netcoreapp2.2\BMAAssignment.Model.AssemblyInfoInputs.cache
+D:\Sri\Office\Others\BMA\BMAAssignment\BMAAssignment.Model\obj\Release\netcoreapp2.2\BMAAssignment.Model.AssemblyInfo.cs
+D:\Sri\Office\Others\BMA\BMAAssignment\BMAAssignment.Model\obj\Release\netcoreapp2.2\BMAAssignment.Model.dll
+D:\Sri\Office\Others\BMA\BMAAssignment\BMAAssignment.Model\obj\Release\netcoreapp2.2\BMAAssignment.Model.pdb

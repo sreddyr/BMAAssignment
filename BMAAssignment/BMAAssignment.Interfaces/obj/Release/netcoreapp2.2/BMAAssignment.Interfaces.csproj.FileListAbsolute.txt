@@ -1,0 +1,12 @@
+D:\Sri\Office\Others\BMA\BMAAssignment\BMAAssignment.Interfaces\bin\Release\netcoreapp2.2\BMAAssignment.Interfaces.deps.json
+D:\Sri\Office\Others\BMA\BMAAssignment\BMAAssignment.Interfaces\bin\Release\netcoreapp2.2\BMAAssignment.Interfaces.dll
+D:\Sri\Office\Others\BMA\BMAAssignment\BMAAssignment.Interfaces\bin\Release\netcoreapp2.2\BMAAssignment.Interfaces.pdb
+D:\Sri\Office\Others\BMA\BMAAssignment\BMAAssignment.Interfaces\bin\Release\netcoreapp2.2\BMAAssignment.Model.dll
+D:\Sri\Office\Others\BMA\BMAAssignment\BMAAssignment.Interfaces\bin\Release\netcoreapp2.2\BMAAssignment.Model.pdb
+D:\Sri\Office\Others\BMA\BMAAssignment\BMAAssignment.Interfaces\obj\Release\netcoreapp2.2\BMAAssignment.Interfaces.csprojAssemblyReference.cache
+D:\Sri\Office\Others\BMA\BMAAssignment\BMAAssignment.Interfaces\obj\Release\netcoreapp2.2\BMAAssignment.Interfaces.csproj.CoreCompileInputs.cache
+D:\Sri\Office\Others\BMA\BMAAssignment\BMAAssignment.Interfaces\obj\Release\netcoreapp2.2\BMAAssignment.Interfaces.AssemblyInfoInputs.cache
+D:\Sri\Office\Others\BMA\BMAAssignment\BMAAssignment.Interfaces\obj\Release\netcoreapp2.2\BMAAssignment.Interfaces.AssemblyInfo.cs
+D:\Sri\Office\Others\BMA\BMAAssignment\BMAAssignment.Interfaces\obj\Release\netcoreapp2.2\BMAAssignment.Interfaces.csproj.CopyComplete
+D:\Sri\Office\Others\BMA\BMAAssignment\BMAAssignment.Interfaces\obj\Release\netcoreapp2.2\BMAAssignment.Interfaces.dll
+D:\Sri\Office\Others\BMA\BMAAssignment\BMAAssignment.Interfaces\obj\Release\netcoreapp2.2\BMAAssignment.Interfaces.pdb
