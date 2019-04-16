@@ -13117,11 +13117,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Sri\\Office\\Others\\BMA\\BMAAssignment\\BMA.API\\BMA.API.csproj",
+      "projectUniqueName": "D:\\Sri\\Office\\BMAAssignment\\BMAAssignment\\BMA.API\\BMA.API.csproj",
       "projectName": "BMA.API",
-      "projectPath": "D:\\Sri\\Office\\Others\\BMA\\BMAAssignment\\BMA.API\\BMA.API.csproj",
+      "projectPath": "D:\\Sri\\Office\\BMAAssignment\\BMAAssignment\\BMA.API\\BMA.API.csproj",
       "packagesPath": "C:\\Users\\srire\\.nuget\\packages\\",
-      "outputPath": "D:\\Sri\\Office\\Others\\BMA\\BMAAssignment\\BMA.API\\obj\\",
+      "outputPath": "D:\\Sri\\Office\\BMAAssignment\\BMAAssignment\\BMA.API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -13140,17 +13140,17 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "D:\\Sri\\Office\\Others\\BMA\\BMAAssignment\\BMAAssignment.DB\\BMAAssignment.DB.csproj": {
-              "projectPath": "D:\\Sri\\Office\\Others\\BMA\\BMAAssignment\\BMAAssignment.DB\\BMAAssignment.DB.csproj"
+            "D:\\Sri\\Office\\BMAAssignment\\BMAAssignment\\BMAAssignment.DB\\BMAAssignment.DB.csproj": {
+              "projectPath": "D:\\Sri\\Office\\BMAAssignment\\BMAAssignment\\BMAAssignment.DB\\BMAAssignment.DB.csproj"
             },
-            "D:\\Sri\\Office\\Others\\BMA\\BMAAssignment\\BMAAssignment.Dependency\\BMAAssignment.Dependency.csproj": {
-              "projectPath": "D:\\Sri\\Office\\Others\\BMA\\BMAAssignment\\BMAAssignment.Dependency\\BMAAssignment.Dependency.csproj"
+            "D:\\Sri\\Office\\BMAAssignment\\BMAAssignment\\BMAAssignment.Dependency\\BMAAssignment.Dependency.csproj": {
+              "projectPath": "D:\\Sri\\Office\\BMAAssignment\\BMAAssignment\\BMAAssignment.Dependency\\BMAAssignment.Dependency.csproj"
             },
-            "D:\\Sri\\Office\\Others\\BMA\\BMAAssignment\\BMAAssignment.Model\\BMAAssignment.Model.csproj": {
-              "projectPath": "D:\\Sri\\Office\\Others\\BMA\\BMAAssignment\\BMAAssignment.Model\\BMAAssignment.Model.csproj"
+            "D:\\Sri\\Office\\BMAAssignment\\BMAAssignment\\BMAAssignment.Model\\BMAAssignment.Model.csproj": {
+              "projectPath": "D:\\Sri\\Office\\BMAAssignment\\BMAAssignment\\BMAAssignment.Model\\BMAAssignment.Model.csproj"
             },
-            "D:\\Sri\\Office\\Others\\BMA\\BMAAssignment\\BMAAssignment.Services\\BMAAssignment.Services.csproj": {
-              "projectPath": "D:\\Sri\\Office\\Others\\BMA\\BMAAssignment\\BMAAssignment.Services\\BMAAssignment.Services.csproj"
+            "D:\\Sri\\Office\\BMAAssignment\\BMAAssignment\\BMAAssignment.Services\\BMAAssignment.Services.csproj": {
+              "projectPath": "D:\\Sri\\Office\\BMAAssignment\\BMAAssignment\\BMAAssignment.Services\\BMAAssignment.Services.csproj"
             }
           }
         }

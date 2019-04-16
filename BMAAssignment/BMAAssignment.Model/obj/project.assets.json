@@ -693,11 +693,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Sri\\Office\\Others\\BMA\\BMAAssignment\\BMAAssignment.Model\\BMAAssignment.Model.csproj",
+      "projectUniqueName": "D:\\Sri\\Office\\BMAAssignment\\BMAAssignment\\BMAAssignment.Model\\BMAAssignment.Model.csproj",
       "projectName": "BMAAssignment.Model",
-      "projectPath": "D:\\Sri\\Office\\Others\\BMA\\BMAAssignment\\BMAAssignment.Model\\BMAAssignment.Model.csproj",
+      "projectPath": "D:\\Sri\\Office\\BMAAssignment\\BMAAssignment\\BMAAssignment.Model\\BMAAssignment.Model.csproj",
       "packagesPath": "C:\\Users\\srire\\.nuget\\packages\\",
-      "outputPath": "D:\\Sri\\Office\\Others\\BMA\\BMAAssignment\\BMAAssignment.Model\\obj\\",
+      "outputPath": "D:\\Sri\\Office\\BMAAssignment\\BMAAssignment\\BMAAssignment.Model\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

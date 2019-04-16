@@ -709,11 +709,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Sri\\Office\\Others\\BMA\\BMAAssignment\\BMAAssignment.Interfaces\\BMAAssignment.Interfaces.csproj",
+      "projectUniqueName": "D:\\Sri\\Office\\BMAAssignment\\BMAAssignment\\BMAAssignment.Interfaces\\BMAAssignment.Interfaces.csproj",
       "projectName": "BMAAssignment.Interfaces",
-      "projectPath": "D:\\Sri\\Office\\Others\\BMA\\BMAAssignment\\BMAAssignment.Interfaces\\BMAAssignment.Interfaces.csproj",
+      "projectPath": "D:\\Sri\\Office\\BMAAssignment\\BMAAssignment\\BMAAssignment.Interfaces\\BMAAssignment.Interfaces.csproj",
       "packagesPath": "C:\\Users\\srire\\.nuget\\packages\\",
-      "outputPath": "D:\\Sri\\Office\\Others\\BMA\\BMAAssignment\\BMAAssignment.Interfaces\\obj\\",
+      "outputPath": "D:\\Sri\\Office\\BMAAssignment\\BMAAssignment\\BMAAssignment.Interfaces\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -732,8 +732,8 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "D:\\Sri\\Office\\Others\\BMA\\BMAAssignment\\BMAAssignment.Model\\BMAAssignment.Model.csproj": {
-              "projectPath": "D:\\Sri\\Office\\Others\\BMA\\BMAAssignment\\BMAAssignment.Model\\BMAAssignment.Model.csproj"
+            "D:\\Sri\\Office\\BMAAssignment\\BMAAssignment\\BMAAssignment.Model\\BMAAssignment.Model.csproj": {
+              "projectPath": "D:\\Sri\\Office\\BMAAssignment\\BMAAssignment\\BMAAssignment.Model\\BMAAssignment.Model.csproj"
             }
           }
         }

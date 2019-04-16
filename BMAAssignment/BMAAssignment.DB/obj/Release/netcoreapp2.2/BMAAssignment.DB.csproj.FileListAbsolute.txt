@@ -7,3 +7,12 @@ D:\Sri\Office\Others\BMA\BMAAssignment\BMAAssignment.DB\obj\Release\netcoreapp2.
 D:\Sri\Office\Others\BMA\BMAAssignment\BMAAssignment.DB\obj\Release\netcoreapp2.2\BMAAssignment.DB.AssemblyInfo.cs
 D:\Sri\Office\Others\BMA\BMAAssignment\BMAAssignment.DB\obj\Release\netcoreapp2.2\BMAAssignment.DB.dll
 D:\Sri\Office\Others\BMA\BMAAssignment\BMAAssignment.DB\obj\Release\netcoreapp2.2\BMAAssignment.DB.pdb
+D:\Sri\Office\BMAAssignment\BMAAssignment\BMAAssignment.DB\bin\Release\netcoreapp2.2\BMAAssignment.DB.deps.json
+D:\Sri\Office\BMAAssignment\BMAAssignment\BMAAssignment.DB\bin\Release\netcoreapp2.2\BMAAssignment.DB.dll
+D:\Sri\Office\BMAAssignment\BMAAssignment\BMAAssignment.DB\bin\Release\netcoreapp2.2\BMAAssignment.DB.pdb
+D:\Sri\Office\BMAAssignment\BMAAssignment\BMAAssignment.DB\obj\Release\netcoreapp2.2\BMAAssignment.DB.csprojAssemblyReference.cache
+D:\Sri\Office\BMAAssignment\BMAAssignment\BMAAssignment.DB\obj\Release\netcoreapp2.2\BMAAssignment.DB.csproj.CoreCompileInputs.cache
+D:\Sri\Office\BMAAssignment\BMAAssignment\BMAAssignment.DB\obj\Release\netcoreapp2.2\BMAAssignment.DB.AssemblyInfoInputs.cache
+D:\Sri\Office\BMAAssignment\BMAAssignment\BMAAssignment.DB\obj\Release\netcoreapp2.2\BMAAssignment.DB.AssemblyInfo.cs
+D:\Sri\Office\BMAAssignment\BMAAssignment\BMAAssignment.DB\obj\Release\netcoreapp2.2\BMAAssignment.DB.dll
+D:\Sri\Office\BMAAssignment\BMAAssignment\BMAAssignment.DB\obj\Release\netcoreapp2.2\BMAAssignment.DB.pdb

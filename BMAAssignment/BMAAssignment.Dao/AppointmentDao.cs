@@ -13,6 +13,8 @@ namespace BMAAssignment.Dao
         {
             try
             {
+                appointment.StartTime = this.ConvertTimeZone(appointment.StartTime);
+                appointment.EndTime = this.ConvertTimeZone(appointment.EndTime);
                 using (BMAContext context = new BMAContext())
                 {
 
@@ -47,6 +49,8 @@ namespace BMAAssignment.Dao
             {
                 using (BMAContext context = new BMAContext())
                 {
+                    appointment.StartTime = this.ConvertTimeZone(appointment.StartTime);
+                    appointment.EndTime = this.ConvertTimeZone(appointment.EndTime);
 
                     var validAppointment = context.Appointments.Any(x => x.Employee_ID == appointment.Employee_ID && (x.StartTime >= appointment.StartTime && x.StartTime <= appointment.EndTime || x.EndTime >= appointment.StartTime && x.EndTime <= appointment.EndTime) && x.Appointment_ID != appointment.Appointment_ID);
 
@@ -174,6 +178,13 @@ namespace BMAAssignment.Dao
             {
                 return "error:" + ex.Message;
             }
+        }
+
+        private DateTime ConvertTimeZone(DateTime date)
+        {
+            var zone = TimeZoneInfo.FindSystemTimeZoneById("GMT Standard Time");
+            bool isDaylightSaving = zone.IsDaylightSavingTime(date);
+            return TimeZoneInfo.ConvertTimeFromUtc(date, zone).ToUniversalTime();
         }
     }
 }

@@ -6,3 +6,11 @@ D:\Sri\Office\Others\BMA\BMAAssignment\BMAAssignment.Model\obj\Debug\netcoreapp2
 D:\Sri\Office\Others\BMA\BMAAssignment\BMAAssignment.Model\obj\Debug\netcoreapp2.2\BMAAssignment.Model.AssemblyInfo.cs
 D:\Sri\Office\Others\BMA\BMAAssignment\BMAAssignment.Model\obj\Debug\netcoreapp2.2\BMAAssignment.Model.dll
 D:\Sri\Office\Others\BMA\BMAAssignment\BMAAssignment.Model\obj\Debug\netcoreapp2.2\BMAAssignment.Model.pdb
+D:\Sri\Office\BMAAssignment\BMAAssignment\BMAAssignment.Model\bin\Debug\netcoreapp2.2\BMAAssignment.Model.deps.json
+D:\Sri\Office\BMAAssignment\BMAAssignment\BMAAssignment.Model\bin\Debug\netcoreapp2.2\BMAAssignment.Model.dll
+D:\Sri\Office\BMAAssignment\BMAAssignment\BMAAssignment.Model\bin\Debug\netcoreapp2.2\BMAAssignment.Model.pdb
+D:\Sri\Office\BMAAssignment\BMAAssignment\BMAAssignment.Model\obj\Debug\netcoreapp2.2\BMAAssignment.Model.csproj.CoreCompileInputs.cache
+D:\Sri\Office\BMAAssignment\BMAAssignment\BMAAssignment.Model\obj\Debug\netcoreapp2.2\BMAAssignment.Model.AssemblyInfoInputs.cache
+D:\Sri\Office\BMAAssignment\BMAAssignment\BMAAssignment.Model\obj\Debug\netcoreapp2.2\BMAAssignment.Model.AssemblyInfo.cs
+D:\Sri\Office\BMAAssignment\BMAAssignment\BMAAssignment.Model\obj\Debug\netcoreapp2.2\BMAAssignment.Model.dll
+D:\Sri\Office\BMAAssignment\BMAAssignment\BMAAssignment.Model\obj\Debug\netcoreapp2.2\BMAAssignment.Model.pdb
